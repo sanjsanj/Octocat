@@ -1,1 +1,3 @@
 Explain what git clone does, in your own words
+
+Git clone creates a clone or an instance of a selected repository at a certain point in time, on to your local machine or github profile.  You can clone any repo you have access to, including your own.
