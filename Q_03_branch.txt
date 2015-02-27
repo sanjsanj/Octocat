@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch is a temporal-linear progression of the changes in your repository.  The branch 'master' is created for you by default in git, you may deviate from this branch by creating your own branches at any given point in the existing timeline, thus creating a parallel universe of your repo.  Branches can later be merged to the master if needed.
